@@ -1,1 +1,1 @@
-# movie-app
+# BMI calculator
