@@ -2,6 +2,11 @@ body {
     background-color: grey;
 }
 
+.heyjude{
+display:none;
+    margin-left:10rem
+}
+
 #bmi_result {
     font-size: 1.7rem;
 }
